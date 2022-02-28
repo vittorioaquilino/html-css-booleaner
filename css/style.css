@@ -59,8 +59,38 @@ a{
     color: white;
 }
 
+.col{
+    width: 300px;
+}
+
 .text-table1{
     margin-top: 20px;
     margin-bottom: 20px;
     background-color: skyblue;
+}
+
+#interest{
+    color: grey;
+    margin-top: 20px;
+}
+
+#img1{
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    background-size: auto;
+    color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#img2{
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    background-size: auto;
+    color: white;
+    height: 200px;
+    margin-top: 10px;
+}
+.text-img{
+    margin: 10px;
 }
