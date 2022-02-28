@@ -1,3 +1,26 @@
-body{
-    background-color: red;
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+#sfondo{
+    background-color: #59c5f0;
+    height: 100px;
+}
+
+#sfondo-img{
+    background-size: contain;
+    height: 100%;
+    
+}
+
+#logo{
+    background-size: contain;
+    width: 80px;
+}
+
+/* MAIN */
+main{
+    margin: 15px;
 }
