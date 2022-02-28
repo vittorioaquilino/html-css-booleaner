@@ -6,21 +6,42 @@
 /* HEADER */
 #sfondo{
     background-color: #59c5f0;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-size: 30%;
     height: 100px;
 }
-
-#sfondo-img{
-    background-size: contain;
-    height: 100%;
-    
-}
-
 #logo{
-    background-size: contain;
-    width: 80px;
+    width: 250px;
+    padding: 0;
+
 }
 
 /* MAIN */
 main{
     margin: 15px;
+}
+
+#sottotitolo{
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+}
+
+#bio{
+    font-size: 14px;
+}
+
+#text{
+    margin-top: 15px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+#list{
+    margin-top: 15px;
 }
