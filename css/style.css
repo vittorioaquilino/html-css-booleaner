@@ -1,19 +1,21 @@
 *{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 /* HEADER */
 #sfondo{
-    background-color: #59c5f0;
+    background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
     background-size: 30%;
     height: 100px;
 }
 #logo{
-    width: 250px;
+    height: 60px;
     padding: 0;
+    margin-top: 40px;
 
 }
 
